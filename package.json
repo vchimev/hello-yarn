@@ -1,0 +1,12 @@
+{
+  "name": "hello-yarn",
+  "version": "0.0.1",
+  "description": "Hello, Yarn!",
+  "main": "index.js",
+  "repository": "https://github.com/vchimev/hello-yarn",
+  "author": "Vasil Chimev <Vasil.Chimev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "simple-get": "^2.4.0"
+  }
+}
